@@ -16,7 +16,7 @@ The single Python file responds to the following problematic:
 - Etablish a connection to a PostgreSQL database
 - Rewrite the CSV content in the database
 
-## INSTALL PSYCOPG2
+## Install psycopg2
 
 Building Psycopg requires a few prerequisites (a C compiler, some development packages).
 More informations can be found on https://pypi.org/project/psycopg2/
@@ -32,7 +32,7 @@ You can also obtain a stand-alone package, not requiring a compiler or external 
 pip install psycopg2-binary
 ```
 
-## IDEAS, FUTHER WORK
+## Ideas, futur work
 
 ### Use POSTGRES-EASYTALK
 
