@@ -68,7 +68,7 @@ After rewriting on the database, it could be nice to send back a confirmation em
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-To contribute to GermanOK, follow these steps:
+To contribute to Report_is_ready, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
